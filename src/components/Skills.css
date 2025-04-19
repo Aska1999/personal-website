@@ -1,0 +1,21 @@
+/* Skills Section */
+.skills-list {
+    margin-bottom: 30px;
+  }
+  
+  .skill-item {
+    margin-bottom: 20px;
+  }
+  
+  .skill-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .skill-icon {
+    color: var(--accent-color);
+    margin-right: 10px;
+    font-size: 1.2rem;
+  }
+  
