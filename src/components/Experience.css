@@ -1,0 +1,31 @@
+
+/* Experience Section */
+.experience-card {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    transition: var(--transition);
+    color: var(--text-color);
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experience-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    background-color: rgba(217, 131, 36, 0.1);
+  }
+  
+  .experience-icon {
+    font-size: 2rem;
+    color: var(--accent-color);
+    margin-bottom: 15px;
+  }
+  
+  .experience-card .card-title {
+    color: var(--light-shade);
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
